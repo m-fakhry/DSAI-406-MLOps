@@ -1,6 +1,6 @@
 #  Machine Learning Engineering for Production (MLOps) (DSAI 406) - 2025-2026
 
-Repository for the MLOps undergraduate course (DSAI 405) for the 2025-2026 academic year at Zewail City University. 
+Repository for the MLOps undergraduate course (DSAI 406) for the 2025-2026 academic year at Zewail City University. 
 
 ---
 
