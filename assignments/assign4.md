@@ -50,7 +50,7 @@
 
 - **Grading Rubric:**
   - Syntax Fixes (30): All bugs are reported 
-  - Workflow Logic (30): Correctly configured `on` triggers.	
-  - Artifact Implementation (20):	used the proper action with proper name and path.
+  - Workflow Logic (30): Correctly configured `on` triggers.
+  - Artifact Implementation (20): used the proper action with proper name and path.
   - Evidence and Reflection (20): Provided clear screenshot of "Green Check" and a logical explanation in README.
 
