@@ -18,7 +18,7 @@ addons:
 #   slide_info: false
 zoom: 1
 syncSettings:
-  server: http://192.168.1.183:8080
+  server: http://10.20.5.45:8080 # http://192.168.1.183:8080
   enabled: true
 syncStates:
   poll:
@@ -270,7 +270,7 @@ Docker - Build vs Run
 
 </Poll>
 
-# [http://192.168.1.183:3030](http://192.168.1.183:3030)
+# [http://10.20.5.45:3030](http://10.20.5.45:3030)
 
 ---
 layout: cover
